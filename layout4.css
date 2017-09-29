@@ -1,0 +1,28 @@
+.example {
+    padding: 10px;
+    position: relative;
+    width: 900px;
+    height: 900px;
+
+}
+
+.example1 {
+    width: 200px;
+    position: relative;
+    border: 1px;
+    float:left;
+    height: 200px;
+}
+.example2 {
+    width: 500px;
+    border:1px;
+    height: 200px;
+
+
+}
+.example3 {
+    width: 300px;
+    height: 200px;
+
+
+}
